@@ -11,9 +11,10 @@ This project will allow us to query the Wikipedia API from our endpoint by speci
 - **Redis** as Node.js redis client.
 - **Response-time** Nodejs package to record response time in the response header.
 
-**Install dependencies**
+**Installing the Node's dependencies**
 
-    npm install --save axios express redis response-time
+    npm install
+ 
 
 **How to test**
 1. On your Google Chrome browser, enable Developer Tools
